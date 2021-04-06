@@ -1,0 +1,5 @@
+class ListBrandsUseCase {
+
+}
+
+export { ListBrandsUseCase }
